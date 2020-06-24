@@ -1,0 +1,15 @@
+{
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2017-07-15 16:36:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2017-07-15 16:36:04 +0900",
+      "river": "2017-07-15 16:38:21 +0900"
+    },
+    "done": false
+  }
+}
