@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2020-06-27 14:34:23 +0900",
       "plains": "2017-07-15 16:36:04 +0900",
       "river": "2017-07-15 16:38:21 +0900"
     },
